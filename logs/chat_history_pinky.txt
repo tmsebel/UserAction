@@ -1,0 +1,13 @@
+
+=== Session at 2025-06-18 13:46:10 ===
+User Profile: Age=11, Smoker=False, Region=tropical
+User Input: i have a headache
+Recognized Symptom: headache
+Follow-up Answers:
+  Q: Is the headache severe or sudden? (yes/no) A: yes
+  Q: Any vision changes? (yes/no) A: no
+Diagnosis:
+  Condition: Unknown
+  First Aid: Rest and monitor symptoms.
+  Emergency: Seek care if symptoms worsen.
+==================================================

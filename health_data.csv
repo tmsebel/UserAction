@@ -1,0 +1,16 @@
+Symptom,condition,follow_up_1,follow_up_2,answer_1,answer_2,first_aid,emergency
+fever,Influenza,Is the fever above 100.4°F (38°C)? (yes/no),Do you have a cough? (yes/no),high,yes,Rest, stay hydrated, take acetaminophen.,Seek care if fever persists >3 days or breathing issues occur.
+fever,Malaria,Is the fever above 100.4°F (38°C)? (yes/no),Do you have a cough? (yes/no),high,no,Stay hydrated, avoid exertion.,Seek immediate care for malaria testing in tropical areas.
+fever,Viral Infection,Is the fever above 100.4°F (38°C)? (yes/no),Do you have a cough? (yes/no),low,no,Rest, drink fluids.,Monitor for worsening symptoms.
+headache,Migraine,Is the headache severe or sudden? (yes/no),Any vision changes? (yes/no),yes,yes,Rest in a dark room, avoid screens.,Seek immediate care for sudden severe headache.
+headache,Tension Headache,Is the headache severe or sudden? (yes/no),Any vision changes? (yes/no),no,no,Rest, hydrate, consider ibuprofen.,Seek care if headache persists >2 days.
+cough,Allergic Rhinitis,Is the cough dry or productive (phlegm)? (dry/productive),Any shortness of breath? (yes/no),dry,no,Use a humidifier, drink warm fluids.,Seek care if cough persists >2 weeks.
+cough,Pneumonia,Is the cough dry or productive (phlegm)? (dry/productive),Any shortness of breath? (yes/no),productive,yes,Rest, stay hydrated.,Seek immediate care for breathing difficulty.
+stomach pain,Gastroenteritis,Do you have diarrhea? (yes/no),Any nausea or vomiting? (yes/no),yes,yes,Stay hydrated with oral rehydration solution.,Seek care if dehydration signs (e.g., dry mouth) appear.
+stomach pain,Indigestion,Do you have diarrhea? (yes/no),Any nausea or vomiting? (yes/no),no,no,Avoid heavy meals, try antacids.,Seek care if pain is severe or persistent.
+diarrhea,Dysentery,Is it watery or bloody? (watery/bloody),Any fever? (yes/no),bloody,yes,Stay hydrated, avoid solid food.,Seek immediate care for bloody diarrhea.
+diarrhea,Traveler's Diarrhea,Is it watery or bloody? (watery/bloody),Any fever? (yes/no),watery,no,Drink oral rehydration solution.,Seek care if diarrhea lasts >2 days.
+sore throat,Strep Throat,Do you have a fever? (yes/no),Is it painful to swallow? (yes/no),yes,yes,Gargle with warm saltwater, stay hydrated.,Seek care for a throat swab to test for bacterial infection.
+sore throat,Viral Pharyngitis,Do you have a fever? (yes/no),Is it painful to swallow? (yes/no),no,no,Rest, drink warm fluids, use throat lozenges.,Seek care if symptoms persist >5 days.
+fatigue,Psoriasis,Are you getting less than 6 hours of sleep nightly? (yes/no),Any recent weight loss? (yes/no),yes,no,Improve sleep hygiene, maintain a regular schedule.,Seek care if fatigue persists despite rest.
+fatigue,Anemia,Are you getting less than 6 hours of sleep nightly? (yes/no),Any recent weight loss? (yes/no),no,yes,Eat a balanced diet, rest.,Seek medical evaluation for unexplained weight loss.

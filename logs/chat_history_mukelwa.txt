@@ -1,0 +1,14 @@
+
+=== Session at 2025-06-18 12:53:17 ===
+Data Source: CSV
+User Profile: Age=18, Smoker=True, Region=non-tropical
+User Input: throat pain
+Recognized Symptom: sore throat
+Follow-up Answers:
+  Q: Do you have a fever? (yes/no) A: no
+  Q: Is it painful to swallow? (yes/no) A: no
+Diagnosis:
+  Condition: Viral Pharyngitis
+  First Aid: Rest
+  Emergency:  drink warm fluids Smokers may have higher risk of respiratory issues.
+==================================================

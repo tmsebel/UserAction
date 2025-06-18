@@ -1,0 +1,14 @@
+
+=== Session at 2025-06-18 12:51:24 ===
+Data Source: CSV
+User Profile: Age=3, Smoker=False, Region=tropical
+User Input: i have a fever
+Recognized Symptom: fever
+Follow-up Answers:
+  Q: Is the fever above 100.4°F (38°C)? (yes/no) A: no
+  Q: Do you have a cough? (yes/no) A: high
+Diagnosis:
+  Condition: Unknown or Possible Tropical Infection
+  First Aid: Rest and monitor symptoms. Consult a pediatrician for child-safe treatments.
+  Emergency: Seek care if symptoms worsen. Consider testing for regional diseases (e.g., malaria, dengue). Children under 5 are at higher risk; seek care promptly.
+==================================================

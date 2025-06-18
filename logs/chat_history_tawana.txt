@@ -1,0 +1,25 @@
+
+=== Session at 2025-06-17 23:03:49 ===
+User Input: i have a sore throat
+Recognized Symptom: sore throat
+Follow-up Answers:
+  Q: Do you have a fever? (yes/no) A: yes
+  Q: Is it painful to swallow? (yes/no) A: yes
+Diagnosis:
+  Condition: Possible Strep Throat or Possible Tropical Infection
+  First Aid: Gargle with warm saltwater, stay hydrated.
+  Emergency: Seek care for a throat swab to test for bacterial infection. Consider testing for regional diseases (e.g., malaria, dengue).
+==================================================
+
+=== Session at 2025-06-17 23:12:21 ===
+User Profile: Age=37, Smoker=False, Region=non-tropical
+User Input: i have a fever
+Recognized Symptom: fever
+Follow-up Answers:
+  Q: Is the fever above 100.4°F (38°C)? (yes/no) A: high
+  Q: Do you have a cough? (yes/no) A: no
+Diagnosis:
+  Condition: Possible Malaria
+  First Aid: Stay hydrated, avoid exertion.
+  Emergency: Seek immediate care for malaria testing in tropical areas.
+==================================================
