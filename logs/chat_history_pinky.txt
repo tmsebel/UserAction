@@ -11,3 +11,17 @@ Diagnosis:
   First Aid: Rest and monitor symptoms.
   Emergency: Seek care if symptoms worsen.
 ==================================================
+
+=== Session at 2025-06-22 16:43:07 ===
+Data Source: Mock
+User Profile: Age=23, Smoker=True, Region=tropical
+User Input: i have a headache
+Recognized Symptom: headache
+Follow-up Answers:
+  Q: Is the headache severe or sudden? (yes/no) A: yes
+  Q: Any vision changes? (yes/no) A: yes
+Diagnosis:
+  Condition: Possible Migraine or Serious Issue
+  First Aid: Rest in a dark room, avoid screens.
+  Emergency: Seek immediate care for sudden severe headache.
+==================================================

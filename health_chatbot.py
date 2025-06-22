@@ -138,7 +138,10 @@ MOCK_DATA = {
 
 def fetch_kaggle_dataset():
     """Fetch and process Kaggle dataset to generate health_data.csv."""
-    dataset = "niyarrbarman/symptom2disease"
+    # Download latest version from KaggleHub as an additional data source
+    # path = kagglehub.dataset_download("tanishchavaan/disease-prediction-medical-dataset")
+    dataset = "tanishchavaan/disease-prediction-medical-dataset"
+    #dataset = "niyarrbarman/symptom2disease"
     output_dir = "kaggle_data"
     output_csv = "health_data.csv"
     data_source = "Kaggle API"

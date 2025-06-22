@@ -46,4 +46,4 @@ HealthChatbot directly supports SDG 3 by:
 **Conclusion**  
 HealthChatbot tackles the SDG 3 challenge of limited healthcare access and low health literacy by delivering an accessible, educational, and scalable solution. By empowering users with knowledge and encouraging timely medical action, it contributes to healthier lives and well-being for all, paving the way for a more equitable global health landscape.
 
-*Note: Screenshots of the chatbot interface and sample outputs are available in the GitHub repository at `https://github.com/username/HealthChatbot/screenshots`.*
+*Note: Screenshots of the chatbot interface and sample outputs are available in the GitHub repository*
