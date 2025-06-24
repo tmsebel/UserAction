@@ -34,7 +34,7 @@ HealthChatbot is an AI-powered conversational tool designed to bridge these gaps
 
 **Technical Foundation**  
 - **Dataset**: Utilizes Symptom2Disease.csv, containing labeled symptoms for diseases like malaria and urinary tract infections, ensuring robust symptom-disease mapping.  
-- **AI Model**: Powered by an NLP model (e.g., Grok 3), it processes user inputs and matches them to dataset patterns with high accuracy.  
+- **AI Model**: Powered by an NLP model, it processes user inputs and matches them to dataset patterns with high accuracy.  
 - **Deployment**: Designed for low-bandwidth environments, ensuring functionality on basic smartphones or community internet hubs.  
 
 **Impact and Alignment with SDG 3**  
@@ -46,4 +46,4 @@ HealthChatbot directly supports SDG 3 by:
 **Conclusion**  
 HealthChatbot tackles the SDG 3 challenge of limited healthcare access and low health literacy by delivering an accessible, educational, and scalable solution. By empowering users with knowledge and encouraging timely medical action, it contributes to healthier lives and well-being for all, paving the way for a more equitable global health landscape.
 
-*Note: Screenshots of the chatbot interface and sample outputs are available in the GitHub repository at `https://github.com/username/HealthChatbot/screenshots`.*
+*Note: Screenshots of the chatbot interface and sample outputs are available in the GitHub repository folder named Screenshorts.
